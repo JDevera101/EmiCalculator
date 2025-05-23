@@ -1,0 +1,5 @@
+Loan: 200.0, Rate: 254.0%, Years: 40, EMI: 42.33
+Loan: 500.0, Rate: 13.0%, Years: 5, EMI: 11.38
+Loan: 100.0, Rate: 15.0%, Years: 15, EMI: 1.40
+Loan: 200.0, Rate: 15.0%, Years: 5, EMI: 4.76
+Loan: 5000.0, Rate: 15.0%, Years: 5, EMI: 118.95
